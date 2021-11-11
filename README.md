@@ -9,10 +9,14 @@ This exercise contains code HTML CSS AND JS with prototype XD
 Index.
 <br/>
 ![Alt text](Screenshot/Index.png?raw=true "Index")
+<br/>
 Section
+<br/>
 ![Alt text](Screenshot/Section.png?raw=true "Section")
+<br/>
 Details
-![Alt text](Screenshot/Details.png?raw=true "Details")
+<br/>
+![Alt text](Screenshot/details.png?raw=true "Details")
 
 <br/>
 
